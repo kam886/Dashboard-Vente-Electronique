@@ -42,7 +42,7 @@ Ces mesures permettent de calculer les **KPI clés** affichés dans le tableau d
 
 ---
 
-## 📊 Indicateurs principaux
+## Indicateurs principaux
 
 Le tableau de bord met en avant des indicateurs clés :
 
@@ -59,7 +59,7 @@ Le tableau de bord met en avant des indicateurs clés :
 
 ---
 
-## 📈 Fonctionnalités
+## Fonctionnalités
 
 * **Évolution des ventes** au fil des mois (CA et volume de commandes)
 * **Répartition du chiffre d’affaires par région** (South, West, North, East)
@@ -73,13 +73,9 @@ Le tableau de bord met en avant des indicateurs clés :
 
 ---
 
-## 🔮 Améliorations possibles
+## Améliorations possibles
 
 * Ajouter une analyse de la **marge bénéficiaire**
 * Intégrer une **prévision des ventes**
 * Connecter le tableau de bord à une **base de données en temps réel**
-
----
-
- Ce projet illustre comment transformer des données brutes en **insights actionnables** grâce à Power BI, dans le cadre des ventes de produits **électroniques et accessoires**.
 
