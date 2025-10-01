@@ -1,6 +1,6 @@
 
 
-# 📊 Tableau de bord Power BI - Suivi des ventes
+# Tableau de bord Power BI - Suivi des ventes
 
 ## 📌 Description
 
@@ -40,16 +40,6 @@ Afin d’obtenir des indicateurs dynamiques et exploitables, plusieurs mesures o
 
 Ces mesures permettent de calculer les **KPI clés** affichés dans le tableau de bord et de faciliter les analyses par client, produit, région et période.
 
----
-
-## Indicateurs principaux
-
-Le tableau de bord met en avant des indicateurs clés :
-
-* 💰 **Total des ventes** : 2,4M€
-* 📦 **Nombre de commandes** : 500
-* 🔢 **Quantité vendue** : 3109
-* 📊 **Commande moyenne** : 4 796 €
 
 ---
 
@@ -57,7 +47,6 @@ Le tableau de bord met en avant des indicateurs clés :
 
 ![Dashboard Power BI](TB_Vente_electro.png)
 
----
 
 ## Fonctionnalités
 
